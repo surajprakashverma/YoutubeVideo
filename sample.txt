@@ -1,0 +1,12 @@
+Slide 9:
+
+At the core of our solution is a multi-agent ecosystem orchestrated by UVOC. Instead of relying on a single AI agent, we deploy specialized agents 
+with distinct responsibilities. Together, they collaborate to deliver personalized and intelligent customer experiences.
+
+Slide 10:
+
+To ensure trust at scale, every agent operates within a Responsible AI framework covering guardrails, security, compliance, and governance. This 
+enables us to deliver AI experiences that are safe, transparent, secure, and continuously monitored throughout their lifecycle.
+
+By combining specialized AI agents with Responsible AI principles, we enable Boots to deliver highly personalized wellness journeys while maintaining 
+trust, compliance, and security.
