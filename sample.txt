@@ -1,9 +1,1 @@
-GOOGLE_Model='gemini-3.1-flash-lite'
-GEMINI_API_KEY='AQ.Ab8RN6Jvjy3vvwh9j7TWlCsqfwef4BqLKauSeFgr_cg4phfA8g'
-RESEND_API_KEY=re_UsunxTRL_HbMV98eCtPSHzK1nnXp9g397
-RECIPIENT_EMAILS=surajprakashverma995@gmail.com
-MAX_RETRIES=5
-SCORE_THRESHOLD=7
-FALLBACK_POLICY=send_best
-NEWSLETTER_NAME=PratAI
-PHYSICAL_ADDRESS=PratAI, SVWorld
+   
